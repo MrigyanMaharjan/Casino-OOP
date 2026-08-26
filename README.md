@@ -14,6 +14,7 @@ Play multiple casino games
 Bet chips and receive winnings
 View a persistent high-score leaderboard
 Save their current balance
+
 Continue a previously saved game
 Exit the casino safely
 
